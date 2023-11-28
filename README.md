@@ -94,7 +94,7 @@
 </a>
 
 <a href="https://github.com/Azmiriyadin" target="_blank">
-  <img align="left" alt="Phyton" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phyton/phyton-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 </a>
 
 
