@@ -105,30 +105,11 @@
 ---
 ### Connect with me:
 
-<a href="https://www.youtube.com/" target="_blank">
-  <i class="fab fa-youtube" style="font-size: 30px; padding-right: 10px;"></i>
-</a>
-
-<a href="https://www.tiktok.com/" target="_blank">
-  <i class="fab fa-tiktok" style="font-size: 30px; padding-right: 10px;"></i>
-</a>
-
-<a href="https://www.instagram.com/" target="_blank">
-  <i class="fab fa-instagram" style="font-size: 30px; padding-right: 10px;"></i>
-</a>
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <i class="fab fa-linkedin" style="font-size: 30px; padding-right: 10px;"></i>
-</a>
-
-<a href="https://www.facebook.com/" target="_blank">
-  <i class="fab fa-facebook" style="font-size: 30px; padding-right: 10px;"></i>
-</a>
-
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-.........." crossorigin="anonymous" />
-
-
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCzZUGNVTxxrjkgvN9TfPmuQ)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-blue?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@azmiriyadin28)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://web.facebook.com/profile.php?id=100091217525457)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-azmi-zamzami-riyadin)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/azmi_riyadin)
 
 
 
