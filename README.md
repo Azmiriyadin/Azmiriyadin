@@ -106,24 +106,28 @@
 ### Connect with me:
 
 <a href="https://www.youtube.com/" target="_blank">
-  <img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/generic/generic-original.svg" style="padding-right:10px;" />
+  <i class="fab fa-youtube" style="font-size: 30px; padding-right: 10px;"></i>
 </a>
 
 <a href="https://www.tiktok.com/" target="_blank">
-  <img align="left" alt="TikTok" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/generic/generic-original.svg" style="padding-right:10px;" />
+  <i class="fab fa-tiktok" style="font-size: 30px; padding-right: 10px;"></i>
 </a>
 
 <a href="https://www.instagram.com/" target="_blank">
-  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/generic/generic-original.svg" style="padding-right:10px;" />
+  <i class="fab fa-instagram" style="font-size: 30px; padding-right: 10px;"></i>
 </a>
 
 <a href="https://www.linkedin.com/" target="_blank">
-  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+  <i class="fab fa-linkedin" style="font-size: 30px; padding-right: 10px;"></i>
 </a>
 
 <a href="https://www.facebook.com/" target="_blank">
-  <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />
+  <i class="fab fa-facebook" style="font-size: 30px; padding-right: 10px;"></i>
 </a>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-.........." crossorigin="anonymous" />
+
 
 
 
