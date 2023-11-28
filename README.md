@@ -109,7 +109,7 @@
 &nbsp;&nbsp;
 [![TikTok](https://path/to/tiktok-icon.svg)](https://www.tiktok.com/@azmiriyadin28)
 &nbsp;&nbsp;
-[![Facebook](https://path/to/facebook-icon.svg)](https://web.facebook.com/profile.php?id=100091217525457)
+[![Facebook](https://gambar/facebook.svg)](https://web.facebook.com/profile.php?id=100091217525457)
 &nbsp;&nbsp;
 [![LinkedIn](https://path/to/linkedin-icon.svg)](https://www.linkedin.com/in/m-azmi-zamzami-riyadin)
 &nbsp;&nbsp;
