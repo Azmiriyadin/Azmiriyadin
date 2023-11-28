@@ -1,30 +1,46 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm M Azmi Zamzami Riyadin
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
+- 🔭 I’m currently Study as Information System
+- 🌱 I’m currently learning Python, Javascript, PHP, HTML, CSS, Framework 7
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: mzamzamiriyadin@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universitas KH. Abdul Wahab Hasbullah]([https://www.ugm.ac.id](https://unwaha.ac.id/)) | Bachelor of Information Systems | Jombang `2021-2025`
+   - Web Development Project Specialist - Information Systems
+   - Data Analysis and Visualization Specialist - Information Systems
+   - Mobile Application Developer - Information Systems
+ #### 2. [Madrasah Muallimin 6 tahun]([https://www.sman1kebumen.sch.id](https://mualliminenamtahun.net/)) | Arabic literature | Jombang `2018-2021`
+   - student council members
 
-## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+## Professional Experience:
+#### 1. [ Web Developer - Student Data Information System](https://github.com/Azmiriyadin/webcrud) | Web Developer  | Jombang `'2021 - Now`
+   - Developed a comprehensive Student Data Information System using web technologies.
+   - Implemented features for student registration, data management, and dynamic reporting.
+   - Utilized HTML, CSS, JavaScript, and backend technologies to ensure a responsive and user-friendly interface.
+   - Collaborated with team members to ensure seamless integration of features.
+     
+#### 2. [Mobile Developer - Music Player Application](https://github.com/Azmiriyadin/aplikasimusik) | Mobile Developer | Jombang `2023-now`
+   - Designed and developed a Music Player Application for mobile platforms.
+   - Implemented an intuitive user interface for seamless music playback and playlist management.
+   - Utilized mobile development frameworks to ensure cross-platform compatibility.
+   - Integrated features for playlist creation, shuffle, and repeat functionalities.
+
+ #### 3. [Data Mining Analyst - Used Car Price Analysis](https://github.com/Azmiriyadin/Data-Mining-Analisis-Harga-Jual-Mobil-Bekas) | Data Mining Analyst | Jombang `2022-now`
+   - Conducted a data mining project to analyze and predict the selling prices of used cars.
+   - Employed machine learning algorithms to extract patterns and trends from large datasets.
+   - Utilized mobile development frameworks to ensure cross-platform compatibility.
+   - Utilized Python with R and  relevant data science libraries for data preprocessing, analysis, and visualization.
+   - Presented actionable insights based on the analysis to aid decision-making.
+
+ #### 4. [Graphic Design - Portfolio Website](https://dribbble.com/shots/23141401-WEBSITE-PORTOFOLIO-DESIGN-GRAFIS) | Graphic Design | Jombang `2017-now`
+   - Designed and developed a visually appealing portfolio website showcasing graphic design projects.
+   - Implemented a responsive and aesthetically pleasing layout to highlight design skills.
+   - Utilized graphic design software for creating engaging visuals and multimedia elements.
+   - Integrated interactive features to enhance user engagement and navigation.
 ---
 
 ### Languages and Tools:
