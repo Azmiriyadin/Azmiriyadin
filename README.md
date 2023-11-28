@@ -9,11 +9,11 @@
 
 ## Education:
 
-#### 1. [Universitas KH. Abdul Wahab Hasbullah]([https://www.ugm.ac.id](https://unwaha.ac.id/)) | Bachelor of Information Systems | Jombang `2021-2025`
+#### 1. [ Universitas KH. Abdul Wahab Hasbullah](https://unwaha.ac.id) | Bachelor of Information Systems | Jombang `2021-2025`
    - Web Development Project Specialist - Information Systems
    - Data Analysis and Visualization Specialist - Information Systems
    - Mobile Application Developer - Information Systems
- #### 2. [Madrasah Muallimin 6 tahun]([https://www.sman1kebumen.sch.id](https://mualliminenamtahun.net/)) | Arabic literature | Jombang `2018-2021`
+ #### 2. [Madrasah Muallimin 6 tahun](https://mualliminenamtahun.net) | Arabic literature | Jombang `2018-2021`
    - student council members
 
 ## Professional Experience:
