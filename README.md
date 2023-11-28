@@ -105,26 +105,28 @@
 ---
 ### Connect with me:
 
- <a href="https://www.youtube.com/channel/UCzZUGNVTxxrjkgvN9TfPmuQ" target="_blank">
-        <img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg">
+  <a href="https://www.youtube.com/channel/UCzZUGNVTxxrjkgvN9TfPmuQ" target="_blank">
+        <img align="left" alt="YouTube" width="30px" src="https://image.flaticon.com/icons/svg/174/174883.svg" style="padding-right:10px;" />
     </a>
 
    <a href="https://www.tiktok.com/@azmiriyadin28" target="_blank">
-        <img align="left" alt="TikTok" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg">
+        <img align="left" alt="TikTok" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111376.svg" style="padding-right:10px;" />
     </a>
 
    <a href="https://web.facebook.com/profile.php?id=100091217525457" target="_blank">
-        <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
+        <img align="left" alt="Facebook" width="30px" src="https://image.flaticon.com/icons/svg/733/733547.svg" style="padding-right:10px;" />
     </a>
 
    <a href="https://www.linkedin.com/in/m-azmi-zamzami-riyadin" target="_blank">
-        <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+        <img align="left" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" style="padding-right:10px;" />
     </a>
 
    <a href="https://www.instagram.com/azmi_riyadin" target="_blank">
-        <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg">
+        <img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" style="padding-right:10px;" />
     </a>
 
+   <br />
+   <br />
 
 
 
