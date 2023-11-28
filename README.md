@@ -106,29 +106,30 @@
 ### Connect with me:
 
 <a href="https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only" target="_blank">
-  <img src="./img/youtube-light.svg" alt="YouTube" width="30px" />
+  <img src="https://via.placeholder.com/30x30" alt="YouTube" />
 </a>
 <a href="https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only" target="_blank">
-  <img src="./img/youtube-dark.svg" alt="YouTube" width="30px" />
+  <img src="https://via.placeholder.com/30x30" alt="YouTube" />
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/m-azmi-zamzami-riyadin-ab49342a1/" target="_blank">
-  <img src="./img/linkedin-light.svg" alt="LinkedIn" width="30px" />
+  <img src="https://via.placeholder.com/30x30" alt="LinkedIn" />
 </a>
 <a href="https://www.linkedin.com/in/m-azmi-zamzami-riyadin-ab49342a1/" target="_blank">
-  <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="30px" />
+  <img src="https://via.placeholder.com/30x30" alt="LinkedIn" />
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/azmi_riyadin#gh-light-mode-only" target="_blank">
-  <img src="./img/instagram-light.svg" alt="Instagram" width="30px" />
+  <img src="https://via.placeholder.com/30x30" alt="Instagram" />
 </a>
 <a href="https://www.instagram.com/azmi_riyadin#gh-dark-mode-only" target="_blank">
-  <img src="./img/instagram-dark.svg" alt="Instagram" width="30px" />
+  <img src="https://via.placeholder.com/30x30" alt="Instagram" />
 </a>
+
 
 
 
