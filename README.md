@@ -105,14 +105,31 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+<a href="https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only" target="_blank">
+  <img src="./img/youtube-light.svg" alt="YouTube" width="30px" />
+</a>
+<a href="https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only" target="_blank">
+  <img src="./img/youtube-dark.svg" alt="YouTube" width="30px" />
+</a>
+
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/m-azmi-zamzami-riyadin-ab49342a1/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/m-azmi-zamzami-riyadin-ab49342a1/)
+
+<a href="https://www.linkedin.com/in/m-azmi-zamzami-riyadin-ab49342a1/" target="_blank">
+  <img src="./img/linkedin-light.svg" alt="LinkedIn" width="30px" />
+</a>
+<a href="https://www.linkedin.com/in/m-azmi-zamzami-riyadin-ab49342a1/" target="_blank">
+  <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="30px" />
+</a>
+
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/azmi_riyadin#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/azmi_riyadin#gh-dark-mode-only)
+
+<a href="https://www.instagram.com/azmi_riyadin#gh-light-mode-only" target="_blank">
+  <img src="./img/instagram-light.svg" alt="Instagram" width="30px" />
+</a>
+<a href="https://www.instagram.com/azmi_riyadin#gh-dark-mode-only" target="_blank">
+  <img src="./img/instagram-dark.svg" alt="Instagram" width="30px" />
+</a>
+
 
 
 
