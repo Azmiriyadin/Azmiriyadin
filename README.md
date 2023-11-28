@@ -52,13 +52,14 @@
 [<img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Canva" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Adobe Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CorelDRAW" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/corel/corel-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CorelDRAW" width="30px" src="https://img.icons8.com/plasticine/452/coreldraw.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Xcode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Cordova" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cordova/cordova-original.svg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
