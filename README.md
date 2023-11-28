@@ -105,30 +105,25 @@
 ---
 ### Connect with me:
 
-<a href="https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only" target="_blank">
-  <img src="https://via.placeholder.com/30x30" alt="YouTube" />
-</a>
-<a href="https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only" target="_blank">
-  <img src="https://via.placeholder.com/30x30" alt="YouTube" />
-</a>
+ <a href="https://www.youtube.com/channel/UCzZUGNVTxxrjkgvN9TfPmuQ" target="_blank">
+        <img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg">
+    </a>
 
-&nbsp;&nbsp;
+   <a href="https://www.tiktok.com/@azmiriyadin28" target="_blank">
+        <img align="left" alt="TikTok" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg">
+    </a>
 
-<a href="https://www.linkedin.com/in/m-azmi-zamzami-riyadin-ab49342a1/" target="_blank">
-  <img src="https://via.placeholder.com/30x30" alt="LinkedIn" />
-</a>
-<a href="https://www.linkedin.com/in/m-azmi-zamzami-riyadin-ab49342a1/" target="_blank">
-  <img src="https://via.placeholder.com/30x30" alt="LinkedIn" />
-</a>
+   <a href="https://web.facebook.com/profile.php?id=100091217525457" target="_blank">
+        <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
+    </a>
 
-&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/m-azmi-zamzami-riyadin" target="_blank">
+        <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    </a>
 
-<a href="https://www.instagram.com/azmi_riyadin#gh-light-mode-only" target="_blank">
-  <img src="https://via.placeholder.com/30x30" alt="Instagram" />
-</a>
-<a href="https://www.instagram.com/azmi_riyadin#gh-dark-mode-only" target="_blank">
-  <img src="https://via.placeholder.com/30x30" alt="Instagram" />
-</a>
+   <a href="https://www.instagram.com/azmi_riyadin" target="_blank">
+        <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg">
+    </a>
 
 
 
