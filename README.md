@@ -105,19 +105,26 @@
 ---
 ### Connect with me:
 
-[![YouTube](https://path/to/youtube-icon.svg)](https://www.youtube.com/channel/UCzZUGNVTxxrjkgvN9TfPmuQ)
-&nbsp;&nbsp;
-[![TikTok](https://path/to/tiktok-icon.svg)](https://www.tiktok.com/@azmiriyadin28)
-&nbsp;&nbsp;
-[![Facebook](https://gambar/facebook.svg)](https://web.facebook.com/profile.php?id=100091217525457)
-&nbsp;&nbsp;
-[![LinkedIn](https://path/to/linkedin-icon.svg)](https://www.linkedin.com/in/m-azmi-zamzami-riyadin)
-&nbsp;&nbsp;
-[![Instagram](https://path/to/instagram-icon.svg)](https://www.instagram.com/azmi_riyadin)
+<a href="https://www.youtube.com/" target="_blank">
+  <img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" style="padding-right:10px;" />
+</a>
 
+<a href="https://www.tiktok.com/" target="_blank">
+  <img align="left" alt="TikTok" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" style="padding-right:10px;" />
+</a>
 
-<br />
-<br />
+<a href="https://www.facebook.com/" target="_blank">
+  <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" style="padding-right:10px;" />
+</a>
+
 
 
 ---
