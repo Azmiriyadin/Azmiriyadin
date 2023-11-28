@@ -105,24 +105,24 @@
 ---
 ### Connect with me:
 
-  <a href="https://www.youtube.com/channel/UCzZUGNVTxxrjkgvN9TfPmuQ">
-  <img align="left" alt="YouTube" width="30px" src="image/youtube.png" style="padding-right:10px;" />
+<a href="https://www.youtube.com/channel/UCzZUGNVTxxrjkgvN9TfPmuQ">
+  <img align="left" alt="YouTube" width="30px" src="Azmiriyadin/image/youtube.png" style="padding-right:10px;" />
 </a>
 
 <a href="https://www.tiktok.com/@azmiriyadin28">
-  <img align="left" alt="TikTok" width="30px" src="image/tiktok.png" style="padding-right:10px;" />
+  <img align="left" alt="TikTok" width="30px" src="Azmiriyadin/image/tiktok.png" style="padding-right:10px;" />
 </a>
 
 <a href="https://web.facebook.com/profile.php?id=100091217525457">
-  <img align="left" alt="Facebook" width="30px" src="image/facebook.png" style="padding-right:10px;" />
+  <img align="left" alt="Facebook" width="30px" src="Azmiriyadin/image/facebook.png" style="padding-right:10px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/m-azmi-zamzami-riyadin">
-  <img align="left" alt="LinkedIn" width="30px" src="image/linkedin.png" style="padding-right:10px;" />
+  <img align="left" alt="LinkedIn" width="30px" src="Azmiriyadin/image/linkedin.png" style="padding-right:10px;" />
 </a>
 
 <a href="https://www.instagram.com/azmi_riyadin">
-  <img align="left" alt="Instagram" width="30px" src="image/instagram.png" style="padding-right:10px;" />
+  <img align="left" alt="Instagram" width="30px" src="Azmiriyadin/image/instagram.png" style="padding-right:10px;" />
 </a>
 
 <br />
