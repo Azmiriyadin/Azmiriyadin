@@ -106,14 +106,16 @@
 ### Connect with me:
 
 <a href="https://www.youtube.com/" target="_blank">
-  <img align="left" alt="Youtube" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" style="padding-right:10px;" />
+</a>
 
 <a href="https://www.tiktok.com/" target="_blank">
   <img align="left" alt="TikTok" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" style="padding-right:10px;" />
-
+</a>
 
 <a href="https://www.instagram.com/" target="_blank">
   <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" style="padding-right:10px;" />
+</a>
 
 <a href="https://www.linkedin.com/" target="_blank">
   <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
@@ -122,6 +124,7 @@
 <a href="https://www.facebook.com/" target="_blank">
   <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />
 </a>
+
 
 
 
