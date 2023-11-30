@@ -42,7 +42,33 @@
    - Utilized graphic design software for creating engaging visuals and multimedia elements.
    - Integrated interactive features to enhance user engagement and navigation.
 ---
+# Organization Experience
 
+## Vice Chair of the Student Association, Information Systems Program
+*2023-2024*
+
+Directed the development of communication strategies to enhance interaction among members of the Information Systems program association.
+Responsible for content creation and coordination with internal teams to ensure effective messaging aligned with the needs of the association.
+
+## Chairman of the Freshmen Orientation Program (OSPEK), Faculty of Waves
+*2023*
+
+Developed and executed the plan for the Orientation Study Introduction (OSPEK) for Waves Faculty first and second wave students.
+Coordinated OSPEK activities responsibly, including managing the execution team and developing programs to meet the needs of new students.
+
+## Student Leadership Security Event Coordinator
+*2023*
+
+Coordinated a security team during student leadership training events to ensure a safe and controlled environment.
+Responsible for planning and implementing security strategies, including coordination with relevant parties and training security team members.
+
+## Liaison Officer at the Orientation Program for New Students (PKKMB), K.H. A Wahab Hasbullah University
+*2023*
+
+Organized group mentoring during the Introduction to Campus Life for New Students (PKKMB) at K.H. A Wahab Hasbullah University.
+Provided guidance and support to participants in the group, ensuring the smooth and successful implementation of the PKKMB activities.
+
+---
 ### Languages and Tools:
 
 <a href="https://github.com/Azmiriyadin" target="_blank">
